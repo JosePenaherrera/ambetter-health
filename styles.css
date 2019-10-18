@@ -1,0 +1,48 @@
+html, body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 18px;
+  font-family: Roboto,arial,helvetica, sans-serif;
+}
+
+body,
+pre,div,
+dl,dt,dd,
+ul,ol,li,
+h1,h2,h3,h4,h5,h6,
+form,fieldset,
+p, blockquote,
+th,td {
+    margin:0; padding:0;
+}
+
+.mdc-layout-grid {
+  max-width: 1272px;
+}
+
+h1,h2,h3,h4,h5 {
+  margin: 16px 0px 16px 0px;
+  font-weight:700 !important;
+  color: #000000;
+}
+
+p {margin-bottom:24px;}
+h1.jumbo {font-size: 46px !important; line-height: 1.25 !important; }
+h1.hero {font-size: 41px !important; line-height: 1.25 !important; }
+h1 {font-size: 36px !important; line-height: 1.25 !important;  }
+h2 {font-size: 29px !important; line-height: 1.25 !important;  }
+h3 {font-size: 23px !important; line-height: 1.5 !important;  }
+h4 {font-size: 20px !important; line-height: 1.5 !important;  }
+h5 {font-size: 18px !important; line-height: 1.5 !important;  }
+
+
+
+.lg-body {font-size: 20px !important; line-height: 1.5 !important;  }
+p {font-size: 18px !important; line-height: 1.5 !important; color:#333333; }
+.sm-body {font-size: 16px !important; line-height: 1.5 !important;  }
+.lg-caption {font-size: 14px !important; line-height: 1.5 !important;  }
+.caption {font-size: 13px !important; line-height: 1.5 !important;  }
+.xs-caption {font-size: 11px !important; line-height: 1.5 !important;  }
+
+span {font-size: 1rem;}
