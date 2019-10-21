@@ -1,0 +1,19 @@
+{
+  "name": "ambetter-health",
+  "version": "1.0.0",
+  "description": "Ambetter Health - Design System in Practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosePenaherrera/ambetter-health.git"
+  },
+  "author": "Jose Penaherrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosePenaherrera/ambetter-health/issues"
+  },
+  "homepage": "https://github.com/JosePenaherrera/ambetter-health#readme"
+}
