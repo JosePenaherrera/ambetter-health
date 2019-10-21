@@ -2,7 +2,7 @@
   "name": "ambetter-health",
   "version": "1.0.0",
   "description": "Ambetter Health - Design System in Practice",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,6 +12,7 @@
   },
   "author": "Jose Penaherrera",
   "license": "ISC",
+  "template": "static",
   "bugs": {
     "url": "https://github.com/JosePenaherrera/ambetter-health/issues"
   },
