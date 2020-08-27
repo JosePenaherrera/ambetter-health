@@ -12,7 +12,7 @@
   },
   "author": "Jose Penaherrera",
   "license": "ISC",
-  "template": "static",
+  "template": "parcel",
   "bugs": {
     "url": "https://github.com/JosePenaherrera/ambetter-health/issues"
   },
